@@ -127,16 +127,16 @@ const Footer = () => {
                   <h5>Categories</h5>
                   <ul>
                     <li>
-                      <Link to="/academy.html">Midas Football Academy</Link>
+                      <Link to="/academy">Midas Football Academy</Link>
                     </li>
                     <li>
-                      <Link to="/our-team.html">Our Teams</Link>
+                      <Link to="/our-team">Our Teams</Link>
                     </li>
                     <li>
-                      <Link to="/players.html">Players</Link>
+                      <Link to="/players">Players</Link>
                     </li>
                     <li>
-                      <Link to="/page-faq.html">
+                      <Link to="/page-faq">
                         Frequently Asked Questions
                       </Link>
                     </li>

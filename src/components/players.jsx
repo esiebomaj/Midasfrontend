@@ -27,7 +27,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/1.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -37,7 +37,7 @@ const Players = () => {
                     <span>Forward</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -51,7 +51,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/2.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -61,7 +61,7 @@ const Players = () => {
                     <span>Forward</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -75,7 +75,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/3.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -85,7 +85,7 @@ const Players = () => {
                     <span>Midfielder</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -99,7 +99,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/4.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -109,7 +109,7 @@ const Players = () => {
                     <span>Goalkeeper</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -123,7 +123,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/5.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -133,7 +133,7 @@ const Players = () => {
                     <span>Midfielder</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -147,7 +147,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/6.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -157,7 +157,7 @@ const Players = () => {
                     <span>Goalkeeper</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -171,7 +171,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/1.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -182,7 +182,7 @@ const Players = () => {
                   </h4>
                   {/* <ul> */}
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -196,7 +196,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/2.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -206,7 +206,7 @@ const Players = () => {
                     <span>Defender</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -220,7 +220,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/3.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -230,7 +230,7 @@ const Players = () => {
                     <span>Midfielder</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -244,7 +244,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/4.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -254,7 +254,7 @@ const Players = () => {
                     <span>Goalkeeper</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -268,7 +268,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/5.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -278,7 +278,7 @@ const Players = () => {
                     <span>Midfielder</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -292,7 +292,7 @@ const Players = () => {
                 <div className="head-player">
                   <img src="img/players/6.jpg" alt="location-team" />
                   <div className="overlay">
-                    <a href="single-player.html">+</a>
+                    <a href="single-player">+</a>
                   </div>
                 </div>
                 <div className="info-player">
@@ -302,7 +302,7 @@ const Players = () => {
                     <span>Goalkeeper</span>
                   </h4>
                 </div>
-                <a href="single-player.html" className="btn">
+                <a href="single-player" className="btn">
                   View Player{" "}
                   <i className="fa fa-angle-right" aria-hidden="true"></i>
                 </a>

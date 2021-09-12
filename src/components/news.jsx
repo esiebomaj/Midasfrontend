@@ -40,13 +40,13 @@ const News = () => {
                           className="img-responsive"
                         />
                         <div className="overlay">
-                          <Link to="single-news.html">+</Link>
+                          <Link to="single-news">+</Link>
                         </div>
                       </div>
                     </div>
                     <div className="col-md-8">
                       <h5>
-                        <Link to="single-news.html">Group Stage Breakdown</Link>
+                        <Link to="single-news">Group Stage Breakdown</Link>
                       </h5>
                       <span className="data-info">January 3, 2014 </span>
                       <p>
@@ -54,7 +54,7 @@ const News = () => {
                         Hareide admits that South American side Peru.
                       </p>{" "}
                       <Link
-                        to="single-news.html"
+                        to="single-news"
                         className="btn-iw outline skin"
                       >
                         Read More
@@ -75,13 +75,13 @@ const News = () => {
                           className="img-responsive"
                         />
                         <div className="overlay">
-                          <Link to="single-news.html">+</Link>
+                          <Link to="single-news">+</Link>
                         </div>
                       </div>
                     </div>
                     <div className="col-md-8">
                       <h5>
-                        <Link to="single-news.html">
+                        <Link to="single-news">
                           Russia 2018’s potential classNameic match-ups
                         </Link>
                       </h5>
@@ -91,7 +91,7 @@ const News = () => {
                         We should qualify for the knockout stage.
                       </p>
                       <Link
-                        to="single-news.html"
+                        to="single-news"
                         className="btn-iw outline skin"
                       >
                         Read More
@@ -112,13 +112,13 @@ const News = () => {
                           className="img-responsive"
                         />
                         <div className="overlay">
-                          <Link to="single-news.html">+</Link>
+                          <Link to="single-news">+</Link>
                         </div>
                       </div>
                     </div>
                     <div className="col-md-8">
                       <h5>
-                        <Link to="single-news.html">
+                        <Link to="single-news">
                           World Cup rivalries reprised
                         </Link>
                       </h5>
@@ -128,7 +128,7 @@ const News = () => {
                         figures that symbolise the main sites of interest.
                       </p>{" "}
                       <Link
-                        to="single-news.html"
+                        to="single-news"
                         className="btn-iw outline skin"
                       >
                         Read More
@@ -149,13 +149,13 @@ const News = () => {
                           className="img-responsive"
                         />
                         <div className="overlay">
-                          <Link to="single-news.html">+</Link>
+                          <Link to="single-news">+</Link>
                         </div>
                       </div>
                     </div>
                     <div className="col-md-8">
                       <h5>
-                        <Link to="single-news.html">
+                        <Link to="single-news">
                           All set for your trip to Russia?
                         </Link>
                       </h5>
@@ -165,7 +165,7 @@ const News = () => {
                         where the piling and casting operations.
                       </p>{" "}
                       <Link
-                        to="single-news.html"
+                        to="single-news"
                         className="btn-iw outline skin"
                       >
                         Read More

@@ -89,7 +89,7 @@ const Academy = () => {
                 <img src="img/midas/Midas win.jpg" alt="" />
               </div>
             </div>
-            <Link to="page-register.html" className="btn-iw outline skin">
+            <Link to="page-register" className="btn-iw outline skin">
               Join Academy
             </Link>
           </div>

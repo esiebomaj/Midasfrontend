@@ -33,10 +33,10 @@ const Header = () => {
                     {/* <!-- Menu-->*/}
                     <ul className="sf-menu" id="menu">
                       <li className="current">
-                        <Link to="/">Home</Link>
+                        <a href="/">Home</a>
                       </li>
                       <li>
-                        <Link to="/academy">Academy</Link>
+                        <a href="/academy">Academy</a>
                       </li>
                       <li>
                         <Link to="/our-team">Our Team</Link>
@@ -63,7 +63,7 @@ const Header = () => {
                         </ul>
                       </li>
                       <li className="current">
-                        <Link to="/page-faq">FAQs</Link>
+                        <a href="/page-faq">FAQs</a>
                       </li>
                       <li>
                         <Link to="/news">News</Link>
@@ -96,10 +96,10 @@ const Header = () => {
         {/* <!-- Menu-->*/}
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <a href="/">Home</a>
           </li>
           <li>
-            <Link to="/academy">Academy</Link>
+            <a href="/academy">Academy</a>
           </li>
           <li>
             <Link to="/players">Players List</Link>
@@ -127,7 +127,7 @@ const Header = () => {
           </li>
 
           <li>
-            <Link to="/page-faq">FAQs</Link>
+            <a href="/page-faq">FAQs</a>
           </li>
 
           <li>
